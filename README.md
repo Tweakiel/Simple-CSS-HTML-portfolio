@@ -24,7 +24,7 @@
 
 ---
 
-> [Deploy/GitHub Pages]()
+> [Deploy/GitHub Pages](https://tweakiel.github.io/Simple-CSS-HTML-portfolio/)
 
 ## Acceptance Criteria ✔️
 
